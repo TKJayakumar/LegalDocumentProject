@@ -1,0 +1,7 @@
+nltk
+spacy
+streamlit
+transformers
+rouge-score
+gensim
+lexnlp
